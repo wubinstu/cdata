@@ -1,0 +1,35 @@
+{
+    "configurations": 
+    [
+        {
+            "name": "Win32",
+            "includePath": ["${workspaceFolder}/**"],
+            "defines": 
+            [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            //"compilerPath": "/home/wubin/MinGW64/bin/",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "C:/APPS/Dev-Cpp/MinGW64/bin/g++.exe"
+        },
+        {
+            "name": "Linux",
+            "includePath": ["${workspaceFolder}/**"],
+            "defines": 
+            [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/APPS/Dev-Cpp/MinGW64/bin/g++.exe",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
